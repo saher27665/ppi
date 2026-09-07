@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "model": "CAT M320",
+        "category": "Wheel Excavator",
+        "price": "$98,000",
+        "image": "p1.jfif",
+        "specs": "Engine: CAT C7.1, Power: 165HP, Weight: 20.5T",
+        "desc": "High-performance wheel excavator for construction projects.",
+        "available": true
+    },
+    {
+        "id": 2,
+        "model": "CAT 950 GC",
+        "category": "Wheel Loader",
+        "price": "$135,000",
+        "image": "p2.jfif",
+        "specs": "Engine: CAT C7.1, Power: 200HP, Bucket: 3.0m³",
+        "desc": "Reliable wheel loader for heavy-duty material handling.",
+        "available": true
+    },
+    {
+        "id": 3,
+        "model": "CAT 320D",
+        "category": "Hydraulic Excavator",
+        "price": "$112,000",
+        "image": "p3.jfif",
+        "specs": "Engine: CAT C7.1, Power: 180HP, Weight: 22T",
+        "desc": "Versatile hydraulic excavator for digging and trenching.",
+        "available": true
+    },
+    {
+        "id": 4,
+        "model": "CAT 966 GC",
+        "category": "Wheel Loader",
+        "price": "$198,000",
+        "image": "p4.jfif",
+        "specs": "Engine: CAT C9.3, Power: 240HP, Bucket: 4.5m³",
+        "desc": "High-capacity wheel loader for large-scale operations.",
+        "available": true
+    },
+    {
+        "id": 5,
+        "model": "CAT D8T",
+        "category": "Tracked Dozer",
+        "price": "$265,000",
+        "image": "p2.jfif",
+        "specs": "Engine: CAT C15, Power: 305HP, Blade Capacity: 8.5m³",
+        "desc": "Large dozer for major earthmoving projects.",
+        "available": true
+    }
+]
